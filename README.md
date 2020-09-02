@@ -11,7 +11,6 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning SWIFT & SWIFTUI
-- 🤔 I’m looking for help with learning SWIFTUI
-- 💬 Ask me about cooking & travelling
+- 💬 Ask me about cooking & travelling 🌍
 - 📫 How to reach me: https://twitter.com/aldana2x_ or aldanaalrashidi@gmail.com
 -->
